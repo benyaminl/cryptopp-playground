@@ -1,0 +1,2 @@
+# any exe will be excluded from uploading to git
+*.exe
